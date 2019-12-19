@@ -7,7 +7,7 @@ ORG:ITCAN;
 TITLE:HR Business Partner
 EMAIL;type=INTERNET;type=WORK;type=pref:hena@itcan.biz
 TEL;type=WORK;type=VOICE:+65 9121 5403
-item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08;;;049712;Singapore
+item1.ADR;type=WORK;type=pref:;;30 Cecil Street\, #18-08 Prudential Tower;;;049712;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:www.itcan.biz
 item2.X-ABLabel:_$!<HomePage>!$_
